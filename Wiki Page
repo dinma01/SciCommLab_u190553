@@ -11,15 +11,25 @@
 - [References](#references)
 
 ## Introduction
-Welcome to the wiki page for the Virtual Reality Medical Image Visualization project! This wiki serves as a comprehensive guide to understanding the purpose, scope, and implementation of the code available in the associated GitHub repository. Whether you're a developer, researcher, or simply curious about virtual reality in healthcare, this wiki will provide valuable insights into the project.
+Welcome to the wiki page for the Virtual Reality Medical Image Visualization project! This wiki serves as a comprehensive 
+guide to understanding the purpose, scope, and implementation of the code available in the associated GitHub repository. 
+Whether you're a developer, researcher, or simply curious about virtual reality in healthcare, this wiki will provide valuable 
+insights into the project.
 
 ## Purpose
-The purpose of this project is to introduce the concept of virtual reality medical image visualization and demonstrate its potential applications in the field of healthcare. The code in the GitHub repository provides a simplified implementation that allows users to simulate the visualization of medical images using virtual reality technology.
+The purpose of this project is to introduce the concept of virtual reality medical image visualization and demonstrate its 
+potential applications in the field of healthcare. The code in the GitHub repository provides a simplified implementation that 
+allows users to simulate the visualization of medical images using virtual reality technology.
 
 ## Project Overview
-The Virtual Reality Medical Image Visualization project focuses on enhancing the visualization and planning process for epilepsy surgery. By optimizing the visualization of medical images, it aims to improve communication between neurophysiologists and neurosurgeons. The project leverages the power of virtual reality and provides an immersive and interactive experience for medical professionals.
+The Virtual Reality Medical Image Visualization project focuses on enhancing the visualization and planning process for epilepsy 
+surgery. By optimizing the visualization of medical images, it aims to improve communication between neurophysiologists and 
+neurosurgeons. The project leverages the power of virtual reality and provides an immersive and interactive experience for medical 
+professionals.
 
-The code available in the GitHub repository is a simplified version that aims to provide a basic understanding of the underlying concepts and implementation. It allows users to explore a virtual environment and interact with 3D models of medical images, specifically brain structures used in epilepsy surgery planning.
+The code available in the GitHub repository is a simplified version that aims to provide a basic understanding of the underlying
+concepts and implementation. It allows users to explore a virtual environment and interact with 3D models of medical images, 
+specifically brain structures used in epilepsy surgery planning.
 
 ## Getting Started
 To get started with the Virtual Reality Medical Image Visualization project, follow these steps:
@@ -31,16 +41,21 @@ To get started with the Virtual Reality Medical Image Visualization project, fol
 5. Follow the on-screen instructions to simulate the virtual reality medical image visualization.
 
 ## Usage
-The code in the GitHub repository provides a simplified implementation, making it accessible to individuals with low coding knowledge. It serves as a starting point for understanding the concepts and exploring the possibilities of virtual reality medical image visualization. Users can interact with the virtual environment and manipulate 3D models of medical images using simple commands.
+The code in the GitHub repository provides a simplified implementation, making it accessible to individuals with low coding knowledge.
+It serves as a starting point for understanding the concepts and exploring the possibilities of virtual reality medical image 
+visualization. Users can interact with the virtual environment and manipulate 3D models of medical images using simple commands.
 
 ## License
-This project is licensed under the [CC License](LICENSE.md). Please review the license file for more details on the usage and distribution of the code.
+This project is licensed under the [CC License](LICENSE.md). Please review the license file for more details on the usage and 
+distribution of the code.
 
 ## Acknowledgments
-We would like to acknowledge the contributions and research in the field of virtual reality medical image visualization by various researchers and developers. Their groundbreaking work has paved the way for advancements in healthcare and improved patient care.
+We would like to acknowledge the contributions and research in the field of virtual reality medical image visualization by various 
+researchers and developers. Their groundbreaking work has paved the way for advancements in healthcare and improved patient care.
 
 ## References
-If you're interested in further exploring the field of virtual reality medical image visualization, here are some recommended references:
+If you're interested in further exploring the field of virtual reality medical image visualization, here are some recommended 
+references:
 
 - [Virtual Reality in Medicine](https://pubmed.ncbi.nlm.nih.gov/28483459/)
 - [Virtual Reality Applications in Health and Rehabilitation](https://pubmed.ncbi.nlm.nih.gov/27437966/)
