@@ -2,10 +2,7 @@
 
 # Asignatura Proyecto de Comunicació Cientifica
 
-Introduce yourself:
-
 Name: Chidinma Surname: Okafor UNIS: u190553 Email: chidinma693@gmail.com
-Simple Virtual Reality Medical Image Visualization code
 
 # Virtual Reality Medical Image Visualization
 
