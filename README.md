@@ -2,7 +2,8 @@
 
 # Asignatura Proyecto de Comunicació Cientifica
 
-Name: Chidinma Surname: Okafor UNIS: u190553 Email: chidinma693@gmail.com
+Name: Chidinma Surname: Okafor UNIS: u190553 Email: chidinma.okafor01@estudiant.upf.edu
+
 
 # Virtual Reality Medical Image Visualization
 
