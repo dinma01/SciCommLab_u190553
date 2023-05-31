@@ -1,5 +1,12 @@
 # SciCommLab_u190553
+
+# Asignatura Proyecto de Comunicació Cientifica
+
+Introduce yourself:
+
+Name: Chidinma Surname: Okafor UNIS: u190553 Email: chidinma693@gmail.com
 Simple Virtual Reality Medical Image Visualization code
+
 # Virtual Reality Medical Image Visualization
 
 Welcome to the Virtual Reality Medical Image Visualization project! This project aims to provide a simple demonstration of medical image visualization using virtual reality technology. By leveraging the power of virtual reality, medical professionals can explore and interact with 3D models of medical images in an immersive environment.
@@ -22,3 +29,5 @@ VR medical image visualization solutions often involve more complex implementati
 - Collaborative features to enable multi-user VR experiences.
 
 While this project provides a simplified version of virtual reality medical image visualization, it serves as a stepping stone to understanding the potential applications and benefits of this technology.
+
+License Creative-Common (CC 4.0)
